@@ -1,2 +1,2 @@
 # diceroller
-a very simple android application --
+a very simple android application -- yu
